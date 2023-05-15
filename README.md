@@ -15,10 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://cdn.shopify.com/s/files/1/0550/3146/3994/products/MascarapeixesFishCode_978x692px_9.png?v=1665164723">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BernardoLangmachado&icon=2&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
